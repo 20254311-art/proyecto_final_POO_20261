@@ -6,5 +6,7 @@ public class gestion {
     private String nombre;
     private String usuario;
     
+    protected String codigo;
+    
     
 }
